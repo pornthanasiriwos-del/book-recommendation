@@ -1,0 +1,42 @@
+.div{
+    border: 2px solid rgb(192, 14, 192);
+}
+.my-custom-navbar {
+  /* เปลี่ยนเป็นรหัสสี (Hex Code) หรือชื่อสีที่คุณต้องการ */
+  background-color: #d1e2f9; 
+}
+.BGCol{
+    background-color: #ffeaba;
+}
+.BGCol1{
+    background-color: #2d2d7c;
+    color: #ffffff ;
+}
+.BGCol2{
+    background-color: #1b1b65;
+    color: #ffffff ;
+}
+.BGCol3{
+    background-color: #98b8e3;
+    color: #ffffff ;
+}
+.sriracha-regular {
+  font-family: "Sriracha", cursive;
+  font-weight: 550;
+  font-style: bold;
+}
+.sriracha-thin {
+  font-family: "Sriracha", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+.chakra-petch-regular {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.chakra-petch-regular2 {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 550;
+  font-style: bold;
+}
