@@ -40,3 +40,6 @@
   font-weight: 550;
   font-style: bold;
 }
+.bg-gradient-vertical {
+  background: linear-gradient(to bottom, #99B8EB, #AFC6BA);
+}
